@@ -1,0 +1,6 @@
+Trinity  Moss,9200.00,70,F
+Morpheus Fishburne,7200.00,77,M
+Persephone Belluci,3200.00,70,F
+Smith Jey,3200.00,77,M
+Cypher Joe Pantoliano,2200.00,77,M
+MuriNeo Moore,1000.00,77,M
